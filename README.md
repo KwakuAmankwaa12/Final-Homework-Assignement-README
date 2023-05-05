@@ -1,3 +1,10 @@
+
+<html>
+  <head></head>
+
+
+
+<body>
 <h1>Kwaku Amankwaa<h1>
   
   <h2>Project #1</h2>
@@ -33,5 +40,10 @@
     <li> A daily planner application which allows users to input their daily tasks in the designated time slots. There is also a section to plan out meals throught the day as well as random quotes to keep users motivated throughout the day. This was possible through the use of the Tkinter python library.</li>
     
   </ul>
+  
+  
+  
+  </body>
+  </html>
 
 
