@@ -1,41 +1,31 @@
-#""
-<h1>Kwaku Amankwaa<h1>
+<h1>Kwaku Amankwaa</h1>
+
+<h3>Project #1</h3>
+
+<ul>
   
-  <h2>Project #1</h2>
+  <li>http://eve.kean.edu/~amankwak/Project1/Home.html</li>
   
-  <ul>
-    
-    <li>https://github.com/KwakuAmankwaa12/US-College-Graudate-Wages-Analysis</li>
-    <li>Analysis of US College Graudate Wages based on majors in order to determine which majors has the highest and lowest
-      unemployment, underemployment rates as well as early career and mid career wages.</li>
-   
-  </ul>
-  
-  
-  
-  
-  <h2>Project #2</h2>
-  
-  <ul>
-    
-    <li>https://github.com/KwakuAmankwaa12/Average-US-College-Graduate-Wages-Statistics-and-Altair-Bar-Graph-</li>
-    <li>Calculates the mean of the analyzed dataset in previous project and creates a bar graph using the Altair python         library</li>
-    
-  </ul>
-  
-  
-  
-  
-  <h2>Project #3</h2>
-  
-  <ul>
-    
-    <li></li>
-    <li> A daily planner application which allows users to input their daily tasks in the designated time slots. There is also a section to plan out meals throught the day as well as random quotes to keep users motivated throughout the day. This was possible through the use of the Tkinter python library.</li>
-    
-  </ul>
-  
-  
-  
+  <li>Website that introduces users to me and the different skills have I picked up throughout school</li>
+
+</ul>
 
 
+<h3>Project #2</h3>
+
+<ul>
+  
+  <li>http://eve.kean.edu/~amankwak/Project2/store_home.html</li>
+  
+  <li> Prototype website for E commerce website Simple Wear. Displays different types of clothing options for both Male and female customers. Features such as Sign in and Shopping cart are also implemented</li>
+  
+ </ul>
+ 
+ 
+ <h3>Project #3</h3>
+ 
+ <ul>
+  
+  <li>http://eve.kean.edu/~amankwak/Project3/SchoolHome.html</li>
+  
+  <li> Desgin think website that provides current high school students with the opprotunity to have thier voices be heard. SurveyYou looks to give students in depth descriptions of each subject, the opprotunity to vote, and suggest any subjects of interest. </li>
