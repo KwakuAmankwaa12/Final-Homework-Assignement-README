@@ -4,9 +4,9 @@
 
 <ul>
   
-  <li>http://eve.kean.edu/~amankwak/Project1/Home.html</li>
+  <li>https://github.com/KwakuAmankwaa12/US-College-Graudate-Wages-Analysis</li>
   
-  <li>Website that introduces users to me and the different skills have I picked up throughout school</li>
+  <li>Analysis of US College Graudate Wages based on majors in order to determine which college majors have the highest and lowestunemployment, underemployment rates as well as early career and mid career wages </li>
 
 </ul>
 
@@ -15,9 +15,9 @@
 
 <ul>
   
-  <li>http://eve.kean.edu/~amankwak/Project2/store_home.html</li>
+  <li>https://github.com/KwakuAmankwaa12/Average-US-College-Graduate-Wages-Statistics-and-Altair-Bar-Graph-</li>
   
-  <li> Prototype website for E commerce website Simple Wear. Displays different types of clothing options for both Male and female customers. Features such as Sign in and Shopping cart are also implemented</li>
+  <li> Calculates the averages of the data found in the prior project and creates a bar graph of the data using the Altair python library </li>
   
  </ul>
  
@@ -26,6 +26,6 @@
  
  <ul>
   
-  <li>http://eve.kean.edu/~amankwak/Project3/SchoolHome.html</li>
+  <li</li>
   
-  <li> Desgin think website that provides current high school students with the opprotunity to have thier voices be heard. SurveyYou looks to give students in depth descriptions of each subject, the opprotunity to vote, and suggest any subjects of interest. </li>
+  <li> A Daily Planner application which allows users to input their desired task into any of the varuious time slots. Along with the application comes a meal plan section which allows users to plan out their meal throughout the day. Finally users will be given a random quote to help lift their spirits and keep them motivated if need be. </li>
